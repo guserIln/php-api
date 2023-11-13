@@ -1,0 +1,10 @@
+{
+    "name": "vendor/appname",
+    "description": "api for CRUD",
+    "type": "project",
+    "require": {
+        "phpunit/phpunit": "^9.6",
+        "composer/xdebug-handler": "^3.0"
+
+    }
+}
